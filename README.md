@@ -51,7 +51,7 @@ To get started with this project locally, follow these steps:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/SrWitty/Portfolio-Website-V5.git
+   git clone https://github.com/M7mdJs/Portfolio-Website-V5.git
    ```
 
 2. **Navigate into the project directory:**
@@ -124,7 +124,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 If you have any questions or feedback, feel free to reach out:
 
 - **Discord**: [@_9z.](https://github.com/SrWitty)
-- **GitHub**: [@SrWitty](https://github.com/SrWitty)
+- **GitHub**: [@M7mdJs](https://github.com/M7mdJs)
 - **Twitter**: [@SirWitty_1](https://twitter.com/SirWitty_1)
 
 ---
