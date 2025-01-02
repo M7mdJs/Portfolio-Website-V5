@@ -19,14 +19,14 @@ const Contact = () => {
 
     emailjs
       .send(
-        'service_6391gea',
-        'template_ot46icb',
+        'Service_ID',
+        'template_id',
         {
           from_name: formData.name,
           reply_to: formData.email,
           message: formData.message,
         },
-        'NX6zwOQ0a4aHRuWNV' 
+        'UserID' 
       )
       .then(
         (response) => {
