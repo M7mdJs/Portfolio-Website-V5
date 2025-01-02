@@ -1,4 +1,3 @@
-Here's a sample `README.md` file for your project. It includes a good design with sections for the project overview, features, installation, usage, and more. You can adjust the content as needed for your specific project.
 
 ```markdown
 # M7md.js
